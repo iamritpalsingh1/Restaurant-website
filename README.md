@@ -1,18 +1,9 @@
 ![](./readmeImg/banner.png)
 
-# Shaif's Cuisine 👨‍🍳
+# Amrit's Cuisine 👨‍🍳
 
 **Live preview: [click me](http://shaif-s-cuisine.netlify.app)**
 
-**Watch on YouTube: ![YouTube Video Views](https://img.shields.io/youtube/views/4y-_3Ayiauw) [https://youtu.be/4y-_3Ayiauw](https://youtu.be/4y-_3Ayiauw)**
-
----
-
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
-
-Like my works and want to support me?
-
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
 
 ---
 
@@ -27,21 +18,6 @@ A `HTML, CSS` Project. Made with ♥ by the `web cifar community`. There will be
 - Netlify Form functionality
 - More . . .
 
-## Starter files
-
-You can find all the starter files in `starter_files` branch. You can to go to the `starter_files` branch and `download zip` the the starter files or You can clone the project and git checkout to `starter_files` branch.
-
-## Requirements
-
-- Basic HTML, CSS
-
-## Developer team of Shaif's Cuisine
-
-- Shaif Arfan
-- Anwar saeed
-- MD Moniruzzaman Sojol
-- Lovekesh Pal
-- Houmayan Rashid Chy
 
 ## Tools Used
 
@@ -50,29 +26,6 @@ You can find all the starter files in `starter_files` branch. You can to go to t
 3. UI Design: Figma
 4. Code Editor: VS Code
 
-## Other projects
-
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
-
-## FAQ
-
-### How can i get started?
-
-You can get started by following the YouTube tutorial of this project. Here is the full tutorial video link: [coming soon].
-
-### What i need to start the project?
-
-Just open your favorite code editor and follow along with the [YouTube Tutorial](https://youtu.be/4y-_3Ayiauw).
-
-### Who the project is for?
-
-The project is for the people who wanna get more skilled in HTML & CSS.
-
-## Feedback
-
-If you have any feedback, please reach out to us at [@web_cifar](http://instagram.com/web_cifar)
-
-## Support
 
 For support, join our [Community Group](http://facebook.com/groups/webcifar).
 
