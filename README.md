@@ -2,7 +2,7 @@
 
 # Amrit's Cuisine 👨‍🍳
 
-**Live preview: [click me](http://shaif-s-cuisine.netlify.app)**
+**Live preview: [click me]((https://amritcusine.netlify.app/))**
 
 
 ---
